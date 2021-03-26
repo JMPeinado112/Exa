@@ -1,7 +1,7 @@
 #Examen_Karate{
   background-image: url('p8.png');
 }
-CinturonNegroPrimerDan {
+.CinturonNegroPrimerDan {
   font-family: Impact;
   display: block;
   border: black 2px solid;
